@@ -79,7 +79,7 @@
 
 ###
 
-<img align="right" height="150" src="https://s.gravatar.com/avatar/3acc4cc068da2f280afefad6d2f996d1?s=80"  />
+<img align="right" height="150" src="[https://s.gravatar.com/avatar/3acc4cc068da2f280afefad6d2f996d1?s=80](https://media.licdn.com/dms/image/C5603AQEXzwseDoEhmg/profile-displayphoto-shrink_200_200/0/1602354135086?e=1698278400&v=beta&t=JuER8OOa1LXNvkHBziLGmxeLY422VnRwBkmGfrR1LRQ)"  />
 
 ###
 
