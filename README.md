@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Grigoris Fotopoulos and I'm a Front End Web Developer with Full Stack Experience from Greece</h2>
+<h2 align="left">Hi 👋! My name is Grigoris Fotopoulos and I'm a Front End Web Developer with Full Stack Experience from Greece. I'm passionate about my work and i don't rest until i get it done.</h2>
 
 ###
 
